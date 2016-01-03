@@ -21,7 +21,7 @@ Record-keeping for my personal goals!
 * [ ] Lights out by 11:30, every work night (0/18)
 * [ ] Exercise 28 times (2/28)
 * [ ] Write my talk for ADC Tulsa
-* [ ] Read 20 single comics issues (1/20)
+* [ ] Read 20 single comics issues (2/20)
 * [ ] Read 3 books (0/3)
 * [ ] Make progress on bookmarks mini-site
 * [ ] Make progress on Node-based idea generator
@@ -36,3 +36,4 @@ Record-keeping for my personal goals!
 * [ ] Buy WP eyeglasses
 * [ ] Log 20 hours learning Japanese (0/20)
 * [ ] Read 3 books (0/3)
+* [ ] Sew key fob for gym locker key
