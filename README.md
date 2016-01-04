@@ -27,6 +27,7 @@ Record-keeping for my personal goals!
 * [ ] Make progress on Node-based idea generator
 * [ ] Log 10 hours learning Japanese (0/10)
 * [ ] Brainstorm action items for having a healthier relationship to work
+* [ ] Inbox zero (personal email)
 
 ## Future: February 2016 goals
 
