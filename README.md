@@ -39,3 +39,11 @@ Record-keeping for my personal goals!
 * [ ] Read 3 books (0/3)
 * [ ] Sew key fob for gym locker key
 * [ ] Learn how to knit a hat
+
+## Future: March 2016 goals
+
+* [ ] Log 30 hours learning Japanese (0/30)
+
+## Future: April 2016 goals
+
+* [ ] Do [React for Beginners](https://reactforbeginners.com/) course
