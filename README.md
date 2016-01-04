@@ -38,3 +38,4 @@ Record-keeping for my personal goals!
 * [ ] Log 20 hours learning Japanese (0/20)
 * [ ] Read 3 books (0/3)
 * [ ] Sew key fob for gym locker key
+* [ ] Learn how to knit a hat
