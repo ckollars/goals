@@ -21,7 +21,7 @@ Record-keeping for my personal goals!
 * [ ] Lights out by 11:30, every work night (2/18)
 * [ ] Exercise 20 times (3/20)
 * [ ] Write my talk for ADC Tulsa
-* [ ] Read 20 single comics issues (2/20)
+* [ ] Read 20 single comics issues (3/20)
 * [ ] Read 3 books (0/3)
 * [ ] Make progress on bookmarks mini-site
 * [ ] Make progress on Node-based idea generator
