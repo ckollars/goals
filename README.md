@@ -25,7 +25,7 @@ Record-keeping for my personal goals!
 * [ ] Read 3 books (1/3)
 * [ ] Make progress on bookmarks mini-site
 * [ ] Make progress on Node-based idea generator
-* [ ] Log 10 hours learning Japanese (1.75/10)
+* [ ] Log 10 hours learning Japanese (2/10)
 * [ ] Brainstorm action items for having a healthier relationship to work
 * [ ] Inbox zero (personal email)
 
