@@ -44,6 +44,7 @@ Record-keeping for my personal goals!
 
 * [ ] Log 30 hours learning Japanese (0/30)
 
-## Future: April 2016 goals
+## Future: unassigned
 
-* [ ] Do [React for Beginners](https://reactforbeginners.com/) course
+* [Build It](future/build-it.md)
+* [Learn It](future/learn-it.md)
