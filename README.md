@@ -12,7 +12,7 @@ Record-keeping for my personal goals!
 
 ## Concrete 2016 goals
 
-* [ ] Read 40 new books (1/40)
+* [ ] Read 40 new books (1/40)*
 * [ ] Hike 10 new trails (0/10)
 * [ ] Go camping 3 times (0/3)
 
@@ -49,3 +49,5 @@ Record-keeping for my personal goals!
 
 * [Build It](future/build-it.md)
 * [Learn It](future/learn-it.md)
+
+\* Some people think I am trying to read 40 novel-length books. Nope. "Books" includes anything I would already track in Goodreads, like trade-paperback-length comics and graphic novels. Does not, however, include individual comic issues (because that's just cheating).
