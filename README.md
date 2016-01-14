@@ -31,14 +31,15 @@ Record-keeping for my personal goals!
 
 ## Future: February 2016 goals
 
-* [ ] Finish bookmarks mini-site
-* [ ] Finish idea generator
-* [ ] Buy new chucks
-* [ ] Buy WP eyeglasses
+* [ ] Get BALC directory up to date
 * [ ] Log 20 hours learning Japanese (0/20)
 * [ ] Read 3 books (0/3)
+* [ ] Finish bookmarks mini-site
+* [ ] Finish idea generator
 * [ ] Sew key fob for gym locker key
 * [ ] Learn how to knit a hat
+* [ ] Buy new chucks
+* [ ] Buy WP eyeglasses
 
 ## Future: March 2016 goals
 
