@@ -47,7 +47,9 @@ Record-keeping for my personal goals!
 
 ## Future: unassigned
 
-* [Build It](future/build-it.md)
-* [Learn It](future/learn-it.md)
+* [Build it](future/build-it.md)
+* [Design it](future/design-it.md)
+* [Learn it](future/learn-it.md)
+* [Write it](future/write-it.md)
 
 \* Some people think I am trying to read 40 novel-length books. Nope. "Books" includes anything I would already track in Goodreads, like trade-paperback-length comics and graphic novels. Does not, however, include individual comic issues (because that's just cheating).
