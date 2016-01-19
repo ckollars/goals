@@ -19,7 +19,7 @@ Record-keeping for my personal goals!
 ## Current: January 2016 goals
 
 * [ ] Lights out by 11:30, every work night (5/18)
-* [ ] Exercise 20 times (10/20)
+* [ ] Exercise 20 times (11/20)
 * [x] Write my talk for ADC Tulsa
 * [ ] Read 20 single comics issues (11/20)
 * [ ] Read 3 books (2/3)
