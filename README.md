@@ -12,17 +12,17 @@ Record-keeping for my personal goals!
 
 ## Concrete 2016 goals
 
-* [ ] Read 40 new books (2/40)*
+* [ ] Read 40 new books (3/40)*
 * [ ] Hike 10 new trails (0/10)
 * [ ] Go camping 3 times (0/3)
 
 ## Current: January 2016 goals
 
 * [ ] Lights out by 11:30, every work night (5/18)
-* [ ] Exercise 20 times (11/20)
+* [ ] Exercise 20 times (12/20)
 * [x] Write my talk for ADC Tulsa
 * [ ] Read 20 single comics issues (11/20)
-* [ ] Read 3 books (2/3)
+* [x] Read 3 books (3/3)
 * [ ] Make progress on bookmarks mini-site
 * [ ] Make progress on Node-based idea generator
 * [ ] Log 10 hours learning Japanese (2/10)
