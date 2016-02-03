@@ -20,11 +20,11 @@ Record-keeping for my personal goals!
 
 ## Current: February 2016 goals
 
-* [ ] Lights out by 11:30, every work night (2/20)
-* [ ] Exercise 17 times (1/17)
-* [ ] Log 20 hours learning Japanese (0/20)
+* [ ] Lights out by 11:30, every work night (3/20)
+* [ ] Exercise 17 times (2/17)
+* [ ] Log 20 hours learning Japanese (1/20)
 * [ ] Read 3 books (0/3)
-* [ ] Get BALC directory up to date
+* [x] Get BALC directory up to date
 * [ ] Finish bookmarks mini-site
 * [ ] Finish idea generator
 * [ ] Sew key fob for gym locker key
@@ -38,6 +38,7 @@ Record-keeping for my personal goals!
 * [ ] Exercise 17 times (0/17)
 * [ ] Log 30 hours learning Japanese (0/30)
 * [ ] Start filing taxes
+* [ ] Comps for BALC redesign
 
 ### Future: unassigned
 
