@@ -23,7 +23,7 @@ Record-keeping for my personal goals!
 * [ ] Lights out by 11:30, every work night (3/20)
 * [ ] Exercise 17 times (2/17)
 * [ ] Log 20 hours learning Japanese (1/20)
-* [ ] Read 3 books (0/3)
+* [ ] Read 3 books (1/3)
 * [x] Get BALC directory up to date
 * [ ] Finish bookmarks mini-site
 * [ ] Finish idea generator
