@@ -12,7 +12,7 @@ Record-keeping for my personal goals!
 
 ## Concrete 2016 goals
 
-* [ ] Read 40 new books (3/40)*
+* [ ] Read 40 new books (5/40)*
 * [ ] Hike 10 new trails (0/10)
 * [ ] Go camping 3 times (0/3)
 
