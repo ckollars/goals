@@ -12,7 +12,7 @@ Record-keeping for my personal goals!
 
 ## Concrete 2016 goals
 
-* [ ] Read 40 new books (5/40)*
+* [ ] Read 40 new books (6/40)*
 * [ ] Hike 10 new trails (0/10)
 * [ ] Go camping 3 times (0/3)
 
@@ -23,7 +23,7 @@ Record-keeping for my personal goals!
 * [ ] Lights out by 11:30, every work night (8/20)
 * [ ] Exercise 17 times (9/17)
 * [ ] Log 20 hours learning Japanese (4.5/20)
-* [ ] Read 3 books (2/3)
+* [x] Read 3 books (3/3)
 * [x] Get BALC directory up to date
 * [ ] Finish bookmarks mini-site
 * [ ] Finish idea generator
