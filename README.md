@@ -20,12 +20,12 @@ Record-keeping for my personal goals!
 
 ## Current: February 2016 goals
 
-* [ ] Lights out by 11:30, every work night (10/20)
-* [ ] Exercise 17 times (12/17)
+* [ ] Lights out by 11:30, every work night (11/20)
+* [ ] Exercise 17 times (14/17)
 * [ ] Log 20 hours learning Japanese (4.75/20)
 * [x] Read 3 books (3/3)
 * [x] Get BALC directory up to date
-* [ ] Finish bookmarks mini-site
+* [x] Finish bookmarks mini-site
 * [ ] Finish idea generator
 * [ ] Sew key fob for gym locker key
 * [ ] Learn how to knit a hat
