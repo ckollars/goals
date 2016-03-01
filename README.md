@@ -26,6 +26,7 @@ Record-keeping for my personal goals!
 * [ ] Start filing taxes
 * [ ] Comps for BALC redesign
 * [ ] Make time for weaving every week (0/5)
+* [ ] Sew key fob for gym locker key.
 
 ## Future goals
 
