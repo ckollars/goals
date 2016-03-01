@@ -18,28 +18,16 @@ Record-keeping for my personal goals!
 
 \* Some people think I am trying to read 40 novel-length books. Nope. "Books" includes anything I would already track in Goodreads, like trade-paperback-length comics and graphic novels. Does not, however, include individual comic issues (because that's just cheating).
 
-## Current: February 2016 goals
-
-* [ ] Lights out by 11:30, every work night (11/20)
-* [x] Exercise 17 times (17/17)
-* [ ] Log 20 hours learning Japanese (5.25/20)
-* [x] Read 3 books (3/3)
-* [x] Get BALC directory up to date
-* [x] Finish bookmarks mini-site
-* [ ] Finish idea generator
-* [ ] Sew key fob for gym locker key
-* [ ] Learn how to knit a hat
-* [x] Buy WP eyeglasses
-
-## Future goals
-
-### March 2016 goals
+## Current: March 2016 goals
 
 * [ ] Exercise 17 times (0/17)
+* [ ] Read 3 books (0/3)
 * [ ] Log 30 hours learning Japanese (0/30)
 * [ ] Start filing taxes
 * [ ] Comps for BALC redesign
 * [ ] Make time for weaving every week (0/5)
+
+## Future goals
 
 ### Future: unassigned
 
@@ -52,4 +40,5 @@ Record-keeping for my personal goals!
 
 ### 2016
 
+* [February](archive/2016/february.md)
 * [January](archive/2016/january.md)
