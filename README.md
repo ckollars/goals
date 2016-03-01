@@ -22,7 +22,7 @@ Record-keeping for my personal goals!
 
 * [ ] Exercise 17 times (0/17)
 * [ ] Read 3 books (0/3)
-* [ ] Log 30 hours learning Japanese (0/30)
+* [ ] Log 30 hours learning Japanese (0/20)
 * [ ] Start filing taxes
 * [ ] Comps for BALC redesign
 * [ ] Make time for weaving every week (0/5)
