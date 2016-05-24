@@ -21,7 +21,7 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 * [ ] Go on a bike tour
 * [ ] Write 2 blog posts
 * [ ] Update personal site with gulp/jekyll
-* [ ] Run 24 miles (5 miles in)
+* [ ] Run 24 miles (7.5 of 24)
 * [ ] Read 1 fiction book
 * [ ] Read 1 non fiction book
 * [ ] Move 401k to new service
