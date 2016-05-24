@@ -1,33 +1,31 @@
 # Goals
-Record-keeping for my personal goals!
+Documented personal goals for 2016. This hasn't officially started until May of 2016.
 
-## Themes for 2016
-
-* Work towards better health habits
-* Have more adventures!
-* SHIP IT
-* Have a healthier emotional relationship to my work
-
-[More details on the blog post](http://melanie-richards.com/blog/my-2015-in-review)
+## General theme and ideas to reach for
+* A healthier lifestyle
+* Build strong friendships
+* Become better at being financially stable
+* Learn to share more with code
+* Get over the imposter syndrome
 
 ## Concrete 2016 goals
+* [ ] Read 12 books
+* [ ] Blog 12 times
+* [ ] Create new website
+* [ ] Run 144 miles
+* [ ] Run 4 Races
+* [ ] Bike Tour 4 times
 
-* [ ] Read 40 new books (6/40)*
-* [ ] Hike 10 new trails (0/10)
-* [ ] Go camping 3 times (0/3)
-
-\* Some people think I am trying to read 40 novel-length books. Nope. "Books" includes anything I would already track in Goodreads, like trade-paperback-length comics and graphic novels. Does not, however, include individual comic issues (because that's just cheating).
-
-## Current: March 2016 goals
-
-* [ ] Exercise 17 times (0/17)
-* [ ] Read 3 books (0/3)
-* [ ] Log 20 hours learning Japanese (0/20)
-* [ ] Start filing taxes
-* [ ] Comps for BALC redesign
-* [ ] Make time for weaving every week (0/5)
-* [ ] Sew key fob for gym locker key
-
+## Current goals: May 2016
+* [ ] Complete Wes Bos React course
+* [ ] Go on a bike tour
+* [ ] Write 2 blog posts
+* [ ] Update personal site with gulp/jekyll
+* [ ] Run 24 miles (5 miles in)
+* [ ] Read 1 fiction book
+* [ ] Read 1 non fiction book
+* [ ] Move 401k to new service
+*
 ## Future goals
 
 ### Future: unassigned
