@@ -39,5 +39,4 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 
 ### 2016
 
-* [February](archive/2016/february.md)
-* [January](archive/2016/january.md)
+* [May](archive/2016/may.md)
