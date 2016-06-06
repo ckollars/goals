@@ -12,20 +12,17 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 * [ ] Read 12 books
 * [ ] Blog 12 times
 * [ ] Create new website
-* [ ] Run 144 miles
+* [ ] Run 144 miles (8)
 * [ ] Run 4 Races
 * [ ] Bike Tour 4 times
 
 ## Current goals: May 2016
-* [ ] Complete Wes Bos React course
-* [ ] Go on a bike tour
-* [ ] Write 2 blog posts
+* [ ] Complete Wes Bos React course (14 of 29)
 * [ ] Update personal site with gulp/jekyll
-* [ ] Run 24 miles (7.5 of 24)
-* [ ] Read 1 fiction book
-* [ ] Read 1 non fiction book
+* [ ] Run twice a week
+* [ ] Read 1 book
 * [ ] Move 401k to new service
-*
+
 ## Future goals
 
 ### Future: unassigned
