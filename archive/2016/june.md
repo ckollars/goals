@@ -1,15 +1,13 @@
-# May 2016
+# June 2016
 
 ## Goals achieved
 
 ## Incomplete
 
 * Complete Wes Bos React course (14 of 29)
-* Write 2 blog posts
-* Run 24 miles (8 of 24)
-* Read 1 fiction book
-* Read 1 non fiction book
+* Complete Wes Bos React course (14 of 29)
+* Update personal site with gulp/jekyll
+* Run twice a week
+* Read 1 book
 * Move 401k to new service
-* Go on a bike tour
-
 
