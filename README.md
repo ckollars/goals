@@ -16,11 +16,11 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 * [ ] Run 4 Races
 * [ ] Bike Tour 4 times
 
-## Current goals: May 2016
+## Current goals: July 2016
 * [ ] Complete Wes Bos React course (14 of 29)
 * [ ] Update personal site with gulp/jekyll
 * [ ] Run twice a week
-* [ ] Read 1 book
+* [x] Read 1 book
 * [ ] Move 401k to new service
 
 ## Future goals
