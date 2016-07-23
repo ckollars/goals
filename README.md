@@ -19,9 +19,9 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 ## Current goals: July 2016
 * [ ] Complete Wes Bos React course (14 of 29)
 * [ ] Update personal site with gulp/jekyll
-* [ ] Run twice a week
 * [x] Read 1 book
 * [ ] Move 401k to new service
+* [ ] Switch my bank to credit union
 
 ## Future goals
 
