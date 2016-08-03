@@ -1,7 +1,7 @@
 # July 2016
 
 ## Goals Achieved
-* Read 1 book
+* Read 1 book (5 people you meet in heaven)
 
 ## Incomplete
 * Complete Wes Bos React course (14 of 29)
