@@ -10,18 +10,18 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 
 ## Concrete 2016 goals
 * [ ] Read 12 books
-* [ ] Blog 12 times
+* [ ] Blog 12 times (1)
 * [ ] Create new website
-* [ ] Run 144 miles (8)
+* [ ] Run 144 miles (12)
 * [ ] Run 4 Races
 * [ ] Bike Tour 4 times
 
 ## Current goals: July 2016
-* [ ] Complete Wes Bos React course (15 of 29)
+* [ ] Complete Wes Bos React course (16 of 29)
 * [ ] Update personal site with gulp/jekyll
-* [x] Read 1 book
-* [ ] Move 401k to new service
-* [ ] Switch my bank to credit union
+* [ ] Read 1 book
+* [ ] Move 401k to new Guidline
+* [ ] Cancle BOTW bank
 
 ## Future goals
 
