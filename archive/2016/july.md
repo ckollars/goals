@@ -1,15 +1,6 @@
 # July 2016
 
 ## Goals Achieved
-
-## General theme and ideas to reach for
-* A healthier lifestyle
-* Build strong friendships
-* Become better at being financially stable
-* Learn to share more with code
-* Get over the imposter syndrome
-
-## Complete
 * Read 1 book
 
 ## Incomplete
