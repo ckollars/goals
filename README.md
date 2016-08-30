@@ -21,7 +21,7 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 * [ ] Update personal site with gulp/jekyll
 * [ ] Read 1 book
 * [ ] Move 401k to new Guidline
-* [x] Cancle BOTW bank
+* [x] Cancel BOTW bank
 
 ## Future goals
 
