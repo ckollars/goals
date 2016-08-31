@@ -12,7 +12,7 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 * [ ] Read 12 books
 * [ ] Blog 12 times (1)
 * [ ] Create new website
-* [ ] Run 144 miles (12)
+* [ ] Run 144 miles (18)
 * [ ] Run 4 Races
 * [ ] Bike Tour 4 times
 
@@ -23,7 +23,9 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 * [ ] Move 401k to new Guidline
 * [x] Cancel BOTW bank
 
-## Future goals
+## Other mentionables
+* [x] First backpacking trip
+* [x] Registered to vote in Oregon
 
 ### Future: unassigned
 
