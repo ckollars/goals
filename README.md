@@ -21,7 +21,7 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 * [ ] Read 1 book
 * [ ] Attend 1 meetup
 * [ ] Update personal site with gulp/jekyll
-* [ ] Move 401k to new Guidline
+* [x] Move 401k to new Guidline
 
 ## Other achievable goals this month
 * [ ] Plan personal project
