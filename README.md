@@ -9,23 +9,30 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 * Get over the imposter syndrome
 
 ## Concrete 2016 goals
-* [ ] Read 12 books
-* [ ] Blog 12 times (1)
+* [ ] Read 12 books (1)
+* [ ] Blog 12 times
 * [ ] Create new website
 * [ ] Run 144 miles (18)
-* [ ] Run 4 Races
-* [ ] Bike Tour 4 times
+* [ ] Run 4 Races (0)
+* [ ] Bike Tour 4 times (0)
 
-## Current goals: August 2016
-* [ ] Complete Wes Bos React course (16 of 29)
-* [ ] Update personal site with gulp/jekyll
+## Current goals: Semptember 2016
+* [ ] Complete Wes Bos React course
 * [ ] Read 1 book
+* [ ] Attend 1 meetup
+* [ ] Update personal site with gulp/jekyll
 * [ ] Move 401k to new Guidline
-* [x] Cancel BOTW bank
 
-## Other mentionables
-* [x] First backpacking trip
-* [x] Registered to vote in Oregon
+## Other achievable goals this month
+* [ ] Plan personal project
+* [ ] Exercise 8 times
+* [ ] Read 1 You Don't know JS book
+* [ ] Watch all ST Videos
+* [ ] Start ES6 Course
+* [ ] Sell Wheels
+* [ ] Sell Bike
+* [ ] Declutter
+
 
 ### Future: unassigned
 
@@ -38,6 +45,7 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 
 ### 2016
 
+* [July](archive/2016/august.md)
 * [July](archive/2016/july.md)
 * [June](archive/2016/june.md)
 * [May](archive/2016/may.md)
