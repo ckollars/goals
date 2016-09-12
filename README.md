@@ -20,7 +20,7 @@ Documented personal goals for 2016. This hasn't officially started until May of 
 * [ ] Complete Wes Bos React course
 * [ ] Read 1 book
 * [ ] Attend 1 meetup
-* [ ] Update personal site with gulp/jekyll
+* [x] Update personal site with gulp/jekyll
 * [x] Move 401k to new Guidline
 
 ## Other achievable goals this month
